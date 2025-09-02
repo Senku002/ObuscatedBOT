@@ -71,13 +71,19 @@ i was tired to use many different tools for basic security work so i make one bo
 - antispam - enable disable spam protection
 - ban - ban user from bot
 - unban - unban user  
-- startgame - start some game
+- startgame - start game
 - stopgame - stop game
+
+### add questions and answers for the game
+- open file questions.txt and add like this
+- ex: 4+4:8
+- question:amsers
+- etc:Etc
 
 ## how to install
 
 ### what you need first
-- nodejs installed on computer
+- nodejs installed on pc/vps
 - npm package manager
 
 ### installation steps
@@ -107,7 +113,7 @@ npm install node-telegram-bot-api axios cheerio uuid qs util dns net crypto fs y
    ```
    or edit index.js file:
    ```javascript
-   const token = process.env.TELEGRAM_TOKEN || 'put_your_token_here'
+   const token = process.env.TELEGRAM_TOKEN || 'my-key-api'
    ```
 
 3. set admin users
