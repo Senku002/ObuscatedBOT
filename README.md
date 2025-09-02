@@ -95,7 +95,7 @@ cd ObfuscatedBOT
 
 2. install all packages
 ```
-npm install node-telegram-bot-api axios cheerio uuid qs util dns net crypto fs yt-search bitcoinjs-lib ecpair tiny-secp256k1 ethers mailparser node-exiftool dist-exiftool whois-json google-libphonenumber
+npm install dotenv node-telegram-bot-api axios cheerio uuid qs util dns net crypto fs yt-search bitcoinjs-lib ecpair tiny-secp256k1 ethers mailparser node-exiftool dist-exiftool whois-json google-libphonenumber
 ```
 
 ### setup bot
