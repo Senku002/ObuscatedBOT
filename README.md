@@ -89,7 +89,7 @@ i was tired to use many different tools for basic security work so i make one bo
 ### installation steps
 1. download the code
 ```
-git clone https://github.com/patchloop/ObfuscatedBOT.git
+git clone https://github.com/Patchloop/ObuscatedBOT.git
 cd ObfuscatedBOT
 ```
 
