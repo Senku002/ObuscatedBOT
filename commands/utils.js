@@ -169,8 +169,13 @@ async function searchyt(query) {
 async function searchgoogle(query) {
     const cleanquery = cleanin(query);
     if (!cleanquery) return 'invalid query';
+    const apikey = process.env.SERPAPI_KEY;
+    if (!apikey) {
+        console.error('search err: SERPAPI_KEY not set');
+        return `google search: https://www.google.com/search?q=${encodeURIComponent(cleanquery)}`;
+    }
     try {
-        const res = await axios.get(`https://serpapi.com/search.json?q=${encodeURIComponent(cleanquery)}&api_key=YOUR_SERPAPI_KEY`, {
+        const res = await axios.get(`https://serpapi.com/search.json?q=${encodeURIComponent(cleanquery)}&api_key=${encodeURIComponent(apikey)}`, {
             timeout: 10000
         });
         if (res.data.organic_results && res.data.organic_results.length > 0) {
